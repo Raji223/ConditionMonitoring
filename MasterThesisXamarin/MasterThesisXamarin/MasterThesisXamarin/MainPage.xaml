@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MasterThesisXamarin"
+             x:Class="MasterThesisXamarin.MainPage" 
+             xmlns:forms="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms">
+  <ContentPage.Content>
+    <ScrollView>
+
+      <StackLayout Spacing="5" Padding="0" BackgroundColor="Black">
+
+        <Image x:Name="EberhardIcon" HorizontalOptions="Start" VerticalOptions="Start"></Image>
+
+        <StackLayout  VerticalOptions="CenterAndExpand" HorizontalOptions="Center" Spacing="10" >
+          <Button Text="Operation Mode" FontFamily="Calibri" BackgroundColor="White" BorderRadius="20" TextColor="#CC1F2F" Clicked="OpModeButtonClicked"  ></Button>
+          <Button Text="OK/NOK" FontFamily="Calibri"  BackgroundColor="White" BorderRadius="20" TextColor="#CC1F2F" Clicked="OkNokButtonClicked" ></Button>
+          <Button Text="Motor Temperature" FontFamily="Calibri"  BackgroundColor="White" BorderRadius="20" TextColor="#CC1F2F" Clicked="MotorTempButtonClicked"></Button>
+          <Button Text="Common NOK Pins- Pareto" FontFamily="Calibri"  BackgroundColor="White" BorderRadius="20" TextColor="#CC1F2F" ></Button>
+          <Button Text="Output(Parts/Hour)" FontFamily="Calibri" BackgroundColor="White" BorderRadius="20" TextColor="#CC1F2F" Clicked="OutputButtonClicked"></Button>
+          <Button Text="Common Errors-Pareto" FontFamily="Calibri" BackgroundColor="White" BorderRadius="20" TextColor="#CC1F2F" ></Button>
+          <Button Text="Pcb-Camera Self-Check" FontFamily="Calibri"  BackgroundColor="White" BorderRadius="20" TextColor="#CC1F2F" ></Button>
+          <Button Text="General Machine Data" FontFamily="Calibri"  BackgroundColor="White" BorderRadius="20" TextColor="#CC1F2F" ></Button>
+        </StackLayout>
+
+      </StackLayout>
+    </ScrollView>
+  </ContentPage.Content>
+</ContentPage>

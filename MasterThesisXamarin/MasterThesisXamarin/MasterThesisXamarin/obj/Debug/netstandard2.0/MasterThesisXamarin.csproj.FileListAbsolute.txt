@@ -1,0 +1,16 @@
+D:\Working_Thesis\MasterThesisXamarin\MasterThesisXamarin\MasterThesisXamarin\bin\Debug\netstandard2.0\MasterThesisXamarin.deps.json
+D:\Working_Thesis\MasterThesisXamarin\MasterThesisXamarin\MasterThesisXamarin\bin\Debug\netstandard2.0\MasterThesisXamarin.dll
+D:\Working_Thesis\MasterThesisXamarin\MasterThesisXamarin\MasterThesisXamarin\bin\Debug\netstandard2.0\MasterThesisXamarin.pdb
+D:\Working_Thesis\MasterThesisXamarin\MasterThesisXamarin\MasterThesisXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Working_Thesis\MasterThesisXamarin\MasterThesisXamarin\MasterThesisXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Working_Thesis\MasterThesisXamarin\MasterThesisXamarin\MasterThesisXamarin\obj\Debug\netstandard2.0\OkNokPage.xaml.g.cs
+D:\Working_Thesis\MasterThesisXamarin\MasterThesisXamarin\MasterThesisXamarin\obj\Debug\netstandard2.0\MasterThesisXamarin.csproj.CoreCompileInputs.cache
+D:\Working_Thesis\MasterThesisXamarin\MasterThesisXamarin\MasterThesisXamarin\obj\Debug\netstandard2.0\MasterThesisXamarin.AssemblyInfoInputs.cache
+D:\Working_Thesis\MasterThesisXamarin\MasterThesisXamarin\MasterThesisXamarin\obj\Debug\netstandard2.0\MasterThesisXamarin.AssemblyInfo.cs
+D:\Working_Thesis\MasterThesisXamarin\MasterThesisXamarin\MasterThesisXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Working_Thesis\MasterThesisXamarin\MasterThesisXamarin\MasterThesisXamarin\obj\Debug\netstandard2.0\MasterThesisXamarin.dll
+D:\Working_Thesis\MasterThesisXamarin\MasterThesisXamarin\MasterThesisXamarin\obj\Debug\netstandard2.0\MasterThesisXamarin.pdb
+D:\Working_Thesis\MasterThesisXamarin\MasterThesisXamarin\MasterThesisXamarin\obj\Debug\netstandard2.0\OpModePage.xaml.g.cs
+D:\Working_Thesis\MasterThesisXamarin\MasterThesisXamarin\MasterThesisXamarin\obj\Debug\netstandard2.0\MotorTemperature.xaml.g.cs
+D:\Working_Thesis\MasterThesisXamarin\MasterThesisXamarin\MasterThesisXamarin\obj\Debug\netstandard2.0\OutputPartsPage.xaml.g.cs
+D:\Working_Thesis\MasterThesisXamarin\MasterThesisXamarin\MasterThesisXamarin\obj\Debug\netstandard2.0\MasterThesisXamarin.csprojAssemblyReference.cache

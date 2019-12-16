@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:forms="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms"
+             x:Class="MasterThesisXamarin.OkNokPage">
+  
+  <ContentPage.Content >
+    <ScrollView>
+
+      <Grid>
+
+        <Grid.RowDefinitions>
+          <RowDefinition Height= "3*"  />
+          <RowDefinition Height= "4*"  />
+          <RowDefinition Height="3*" />
+        </Grid.RowDefinitions>
+        <!--<Grid.ColumnDefinitions>
+          <ColumnDefinition Width= "*"  />
+          <ColumnDefinition Width= "*"   />
+          <ColumnDefinition Width= "*"  />
+          <ColumnDefinition Width= "*"   />
+          
+        <RowDefinition Height="3*" />-->
+        
+        <!--</Grid.ColumnDefinitions>-->
+        <Label Text="OK/NOK" TextColor="#FFFFFFFF" HorizontalOptions="Center" FontFamily="Calibri"></Label>
+        <forms:ChartView Grid.Row ="1"  VerticalOptions="Fill" x:Name="OkNokPartsChart" BackgroundColor="Black" ></forms:ChartView>
+      </Grid>
+    </ScrollView>
+    
+  </ContentPage.Content>
+  </ContentPage>
